@@ -6,12 +6,11 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 
+postgres
+clidey/whodb
 gdy666/lucky
 nyanmisaka/jellyfin
-teamspeak
 linuxserver/qbittorrent
-nyanmisaka/jellyfin
 jeessy/ddns-go
 networkstatic/iperf3
 linuxserver/syncthing
-ubuntu
