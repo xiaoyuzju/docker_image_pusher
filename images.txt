@@ -6,7 +6,8 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 
-postgres
+postgres:16
+postgres:15
 clidey/whodb
 gdy666/lucky
 nyanmisaka/jellyfin
