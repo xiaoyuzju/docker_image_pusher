@@ -16,3 +16,6 @@ jeessy/ddns-go
 networkstatic/iperf3
 linuxserver/syncthing
 apache/airflow:2.10.4
+vllm/vllm-openai:v0.6.6.post1
+vllm/vllm-openai:v0.6.5
+vllm/vllm-openai:v0.6.4.post1
