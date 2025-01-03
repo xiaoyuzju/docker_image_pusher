@@ -15,3 +15,4 @@ linuxserver/qbittorrent
 jeessy/ddns-go
 networkstatic/iperf3
 linuxserver/syncthing
+apache/airflow:2.10.4
