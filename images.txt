@@ -8,6 +8,9 @@ xhofe/alist:latest
 
 postgres:16
 postgres:15
+postgres:14
+postgres:13
+redis:7.2-bookworm
 clidey/whodb
 gdy666/lucky
 nyanmisaka/jellyfin
