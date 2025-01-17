@@ -22,3 +22,8 @@ apache/airflow:2.10.4
 vllm/vllm-openai:v0.6.6.post1
 vllm/vllm-openai:v0.6.5
 vllm/vllm-openai:v0.6.4.post1
+dustynv/vllm:0.6.6.post1-builder-r36.4.0
+dustynv/vllm:0.6.3-r36.4.0
+dustynv/vllm:r36.4.0
+dustynv/llama_cpp:0.3.5-r36.4.0
+
