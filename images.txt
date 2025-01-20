@@ -26,4 +26,5 @@ dustynv/vllm:0.6.6.post1-builder-r36.4.0
 dustynv/vllm:0.6.3-r36.4.0
 dustynv/vllm:r36.4.0
 dustynv/llama_cpp:0.3.5-r36.4.0
+dustynv/tensorrt_llm:0.12-r36.4.0
 
